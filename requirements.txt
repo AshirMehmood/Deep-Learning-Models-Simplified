@@ -1,0 +1,5 @@
+1. run these commands, make sure that pip is installed.
+2. pip install transformers
+3. pip install scipy
+4. pip3 install torch torchvision torchaudio
+5. pip install numpy
